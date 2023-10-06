@@ -10,7 +10,7 @@ Through my experience with programming I mastered python, touched C++ a bit,  tr
 ## 
 
 <p align="center"> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=pophilpo&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pophilpo&row=2&no-frame=false&theme=oldie" alt="sunsided's github trophy" />
 <!-- :) hey there, thanks for looking -->
 <img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
 </p>
