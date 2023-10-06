@@ -1,16 +1,15 @@
 ### Hi there 👋
+My name is Philipp, I'm a data engineer at [@nyris](https://github.com/nyris). My main interests are computer vision 👀 and anything that has the word data in it.
 
-<!--
-**pophilpo/pophilpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy making useless tools to automate useless tasks, configuring neovim and look for a rust replacement to every program. I also am very interested in reinforcement learning and tried to make my computer play video games multiple times
 
-Here are some ideas to get you started:
+I worked as a data scientist, focusing on deep learning and computer vision, data engineer handling any type of data and I think I would like to work as a software engineer in the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through my experience with programming I mastered python, touched C++ a bit,  tried to get better at rust for 5 years straight and now am looking to learn C# and .NET
+
+
+<p align="center"> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pophilpo&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
+<!-- :) hey there, thanks for looking -->
+<img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
+</p>
